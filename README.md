@@ -24,7 +24,7 @@ Always eager to learn, collaborate, and take on new challenges.
 
 ---
 
-# 🏆GitHub Trophies 
+# 🏆GitHub Trophies :
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanWael&theme=radical&row=1&column=5&margin-w=10&margin-h=10"/>
 </p>

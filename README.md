@@ -23,9 +23,3 @@ Always eager to learn, collaborate, and take on new challenges.
 ![My Skills](https://skillicons.dev/icons?i=cpp,java,php,python,html,css,bootstrap,tailwindcss,react,typescript,nodejs,git,github,robloxstudio&theme=light)
 
 ---
-
-# 🏆GitHub Trophies :
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanWael&theme=radical&row=1&column=5&margin-w=10&margin-h=10"/>
-</p>
----

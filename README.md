@@ -21,5 +21,3 @@ Always eager to learn, collaborate, and take on new challenges.
 ### 🧰 Languages and Tools :
 
 ![My Skills](https://skillicons.dev/icons?i=cpp,java,php,python,html,css,bootstrap,tailwindcss,react,typescript,nodejs,git,github,robloxstudio&theme=light)
-
----
